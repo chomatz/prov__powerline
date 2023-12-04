@@ -1,2 +1,14 @@
 ---
-# vars file for prov__powerline
+
+powerline:
+  packages:
+    base:
+      - powerline
+      - powerline-fonts
+    red_hat:
+      - tmux-powerline
+      - vim-powerline
+    arch:
+      - powerline-vim
+
+...
