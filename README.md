@@ -1,5 +1,5 @@
 # prov__powerline
-ansible role for provisioning powerline
+ansible role for powerline provisioning
 # requirements
 # variables
 # dependencies
